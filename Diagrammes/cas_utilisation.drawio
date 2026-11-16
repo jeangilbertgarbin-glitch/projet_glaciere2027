@@ -4,6 +4,33 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gL7DIX12jzSKuC0SNExY-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;align=left;" value="" vertex="1">
+          <mxGeometry height="40" width="160" x="320" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gL7DIX12jzSKuC0SNExY-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="680" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gL7DIX12jzSKuC0SNExY-4" edge="1" parent="1" source="gL7DIX12jzSKuC0SNExY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;endArrow=none;" target="gL7DIX12jzSKuC0SNExY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gL7DIX12jzSKuC0SNExY-5" edge="1" parent="1" source="gL7DIX12jzSKuC0SNExY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;endArrow=none;" target="gL7DIX12jzSKuC0SNExY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gL7DIX12jzSKuC0SNExY-6" edge="1" parent="1" source="gL7DIX12jzSKuC0SNExY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeWidth=2;endArrow=none;" target="gL7DIX12jzSKuC0SNExY-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gL7DIX12jzSKuC0SNExY-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontSize=17;align=center;verticalAlign=middle;spacing=12;" value="&lt;b&gt;À qui rend-il service ?&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;au élèves de terminales STL&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;qui souhaite conserver leur&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;experience au frais&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="380" x="320" y="407" as="geometry" />
+        </mxCell>
+        <mxCell id="gL7DIX12jzSKuC0SNExY-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontSize=17;align=center;verticalAlign=middle;spacing=12;" value="&lt;b&gt;Sur quoi agit-il ?&lt;/b&gt;&lt;br&gt;&lt;br&gt;Sur la température intérieure de la glacière (en la réglant et en l&#39;affichant)." vertex="1">
+          <mxGeometry height="200" width="380" x="1066" y="407" as="geometry" />
+        </mxCell>
+        <mxCell id="gL7DIX12jzSKuC0SNExY-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#000000;strokeWidth=2;fontSize=19;align=center;verticalAlign=middle;spacing=12;" value="&lt;b&gt;GLACIÈRE ÉLECTRIQUE&lt;/b&gt;&lt;br&gt;&lt;br&gt;❄&lt;br&gt;&lt;b&gt;Affichage : 4 °C&lt;/b&gt;&lt;br&gt;Boutons de réglage + / −&lt;br&gt;Régulation automatique" vertex="1">
+          <mxGeometry height="190" width="330" x="736" y="647" as="geometry" />
+        </mxCell>
+        <mxCell id="gL7DIX12jzSKuC0SNExY-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontSize=17;align=center;verticalAlign=middle;spacing=12;" value="&lt;b&gt;Dans quel but ?&lt;/b&gt;&lt;br&gt;&lt;br&gt;Maintenir une température idéale et réglable, tout en l&#39;affichant, afin de conserver les experience au frais ou au froid." vertex="1">
+          <mxGeometry height="170" width="470" x="666" y="917" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
